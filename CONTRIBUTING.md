@@ -5,6 +5,7 @@ Thank you for considering contributing to my project. Please read the following 
 ## Contributors
 ### Please add your GitHub username
 ccc484
+sierrachoate
 
 ## Pull Request Process
 
