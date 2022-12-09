@@ -4,6 +4,9 @@ These waves vibrate at very different frequencies but they can be related by a c
 Hopefully this code can generate images as beautiful as the music sent through it.
 > Music is the strongest form of magic.
 
+### Hypothetical Module
+I plan to add a module about how to sucessfully work as a team on a project. 
+
 ## Licensing
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
